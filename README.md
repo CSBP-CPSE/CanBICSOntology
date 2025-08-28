@@ -21,7 +21,8 @@ classDiagram
     MultiUsePath --|> ConformingCyclingFacility
     PaintedBikeLane --|> ConformingCyclingFacility
     GravelTrail --|> NonConformingCyclingFacility 
-    SharedLane --|> NonConformingCyclingFacility
+    LocalSharedRoad --|> NonConformingCyclingFacility
+    MajorSharedRoad --|> NonConformingCyclingFacility
     MixedTrafficStreet --|> NonConformingCyclingFacility
 
 

@@ -9,5 +9,6 @@ Cycling infrastructure that cannot be classified using the [Can-BICS Cycling Inf
 More specific Types
 
 - [GravelTrail](GravelTrail)
-- [SharedLane](SharedLane)
+- [LocalSharedRoad](LocalSharedRoad)
+- [MajorSharedRoad](MajorSharedRoad)
 - [MixedTrafficStreet](MixedTrafficStreet)
