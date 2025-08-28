@@ -27,7 +27,7 @@ classDiagram
 
 ```
 
-Start browsing from the base class: [CyclingFacility](CyclingFacility)
+Start browsing from the base class: [CyclingFacility](classes/CyclingFacility)
 
 ## Reference
 
